@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">percentageConverter</string>
+    <string name="Title">Percentage Converter</string>
+    <string name="altText">logo</string>
+    <string name="marks">Marks</string>
+    <string name="out_of">Out Of</string>
+    <string name="divide">/</string>
+    <string name="convert">CONVERT</string>
+    <string name="result">Result</string>
+    <string name="percentage">%</string>
+</resources>
